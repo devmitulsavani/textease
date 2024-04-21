@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb8031a4.css",
-    "main.js": "/static/js/main.bb69223e.js",
+    "main.css": "/static/css/main.b25324af.css",
+    "main.js": "/static/js/main.dfbd8597.js",
     "static/js/787.fb9a5fa6.chunk.js": "/static/js/787.fb9a5fa6.chunk.js",
     "static/media/Outfit-SemiBold.woff": "/static/media/Outfit-SemiBold.58a47c5f1dd6833bb35b.woff",
     "static/media/Outfit-Regular.woff": "/static/media/Outfit-Regular.64037869b2f0a9250351.woff",
@@ -23,12 +23,12 @@
     "static/media/Outfit-Thin.woff2": "/static/media/Outfit-Thin.f9a0f2ae55e5ff285f3a.woff2",
     "index.html": "/index.html",
     "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
-    "main.bb8031a4.css.map": "/static/css/main.bb8031a4.css.map",
-    "main.bb69223e.js.map": "/static/js/main.bb69223e.js.map",
+    "main.b25324af.css.map": "/static/css/main.b25324af.css.map",
+    "main.dfbd8597.js.map": "/static/js/main.dfbd8597.js.map",
     "787.fb9a5fa6.chunk.js.map": "/static/js/787.fb9a5fa6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb8031a4.css",
-    "static/js/main.bb69223e.js"
+    "static/css/main.b25324af.css",
+    "static/js/main.dfbd8597.js"
   ]
 }
